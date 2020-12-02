@@ -1,0 +1,42 @@
+{
+  "wallet": [
+    {
+      "id": 1,
+      "address": "c9A8h3Ls02nA8uj3e7NiA1",
+      "balance": 0
+    },
+    {
+      "id": 2,
+      "address": "c9A8h3Ls02nA2pAU4nd02k",
+      "balance": 0
+    },
+    {
+      "id": 3,
+      "address": "c91kaY9hE3iAA2pAU4nd02k",
+      "balance": 0
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "address": "c9A8h3Ls02nA8uj3e7NiA1",
+      "txn_id": "9iA3lnD9e",
+      "amount": 0.09403000,
+      "status": 100
+    },
+    {
+      "id": 2,
+      "address": "c9A8h3Ls02nA2pAU4nd02k",
+      "txn_id": "9iA3lnD9e",
+      "amount": 0.080210000,
+      "status": 0
+    },
+    {
+      "id": 3,
+      "address": "c91kaY9hE3iAA2pAU4nd02k",
+      "txn_id": "9iA3lnD9e",
+      "amount": 0.09910000,
+      "status": -1
+    }
+  ]
+}
